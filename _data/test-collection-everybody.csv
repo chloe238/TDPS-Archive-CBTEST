@@ -2,3 +2,8 @@ objectid,parentid,filename,youtubeid,vimeoid,title,director,date,description,sub
 everybodyCol,,,,,Everybody,Karie Miller,,,,,,,,,,multiple,,,
 everybody001,everybodyCol,Everybody00001.jpg,,,1,,,,,,,,,,,image/jpeg,eng,,
 everybody001,everybodyCol,Everybody00002.jpg,,,2,,,,,,,,,,,image/jpeg,eng,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+folokotoCol,,,,,Folokoto the Tornado,,,,,,,,,,,compound_object,,,
+folokoto001,folokotoCol,FOLOKOTO001.jpg,,,1,,,,,,,,,,,image/jpeg,,,
+folokoto002,folokotoCol,FOLOKOTO002.jpg,,,2,,,,,,,,,,,image/jpeg,,,
