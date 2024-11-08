@@ -1,4 +1,4 @@
 objectid,parentid,filename,youtubeid,vimeoid,title,director,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 everybodyCol,,,,,Everybody,Karie Miller,,,,,,,,,,multiple,,,
-everybody001,everybodyCol,210a.jpg,,,,,,,,,,,,,,image/jpeg,eng,,
-everybody001,everybodyCol,210b.jpg,,,,,,,,,,,,,,image/jpeg,eng,,
+everybody001,everybodyCol,210a.jpg,,,1,,,,,,,,,,,image/jpeg,eng,,
+everybody001,everybodyCol,210b.jpg,,,2,,,,,,,,,,,image/jpeg,eng,,
