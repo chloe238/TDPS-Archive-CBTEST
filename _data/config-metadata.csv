@@ -1,7 +1,9 @@
 field,display_name,browse_link,external_link
 title,Title,
-director,Director,
 date,Date Created,
+season,Season,
+director,Director,
+designers,Designers,
 description,Description,
 subject,Subject,true
 location,Location
