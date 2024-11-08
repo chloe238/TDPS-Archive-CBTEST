@@ -147,10 +147,8 @@ function shuffle(array) {
 
 /* init browse page */
 
-/* randomize items once at page load */
-//shuffle(items);
-/* sort items by date page load */
-sorting(items,"title");
+/* sort items by date on page load */
+sorting(items,"date");
 
 /* set some elements */ 
 var loadingIcon = document.querySelector("#loadingIcon");
@@ -197,7 +195,7 @@ function sorting(json_object, key_to_sort_by) {
         var y = b[key_to_sort_by];
         if (typeof x === 'string' ) { x = x.toUpperCase(); }
         if (typeof y === 'string' ) { y = y.toUpperCase(); }
-        if (key_to_sort_by === "title") {
+        if (key_to_sort_by === "date") {
             return ((x==null) ? -1: (y==null) ? 1: (x < y) ? 1 : ((x > y) ? -1 : 0));
         }
         return ((x==null) ? 1: (y==null) ? -1: (x < y) ? -1 : ((x > y) ? 1 : 0));
