@@ -1,9 +1,9 @@
 objectid,parentid,filename,youtubeid,vimeoid,title,director,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-everybodyCol,,,,,Everybody,Karie Miller,,,,,,,,,,multiple,,,
+everybodyCol,,,,,Everybody,Karie Miller,2023,,,,,,,,,multiple,,,
 everybody001,everybodyCol,Everybody00001.jpg,,,1,,2023,,,,,,,,,image/jpeg,eng,,
 everybody001,everybodyCol,Everybody00002.jpg,,,2,,2023,,,,,,,,,image/jpeg,eng,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
-folokotoCol,,,,,Folokoto the Tornado,,,,,,,,,,,compound_object,,,
+folokotoCol,,,,,Folokoto the Tornado,,2024,,,,,,,,,compound_object,,,
 folokoto001,folokotoCol,FOLOKOTO001.jpg,,,1,,2024,,,,,,,,,image/jpeg,,,
 folokoto002,folokotoCol,FOLOKOTO002.jpg,,,2,,2024,,,,,,,,,image/jpeg,,,
