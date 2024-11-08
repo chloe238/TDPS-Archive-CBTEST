@@ -1,17 +1,4 @@
-objectid,filename,youtubeid,vimeoid,title,creator,date,description,director,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-coll001,Everybody00001.jpg,,,Everybody (1),,2024-10-01,,Branden Jacob-Jenkins,,,,,,,,,,
-coll002,Everybody00002.jpg,,,Everybody (2),,2024-10-02,,Branden Jacob-Jenkins,,,,,,,,,,
-coll003,,,,,,,,,,,,,,,,,,
-coll004,,,,,,,,,,,,,,,,,,
-coll005,,,,,,,,,,,,,,,,,,
-coll006,,,,,,,,,,,,,,,,,,
-coll007,,,,,,,,,,,,,,,,,,
-coll008,,,,,,,,,,,,,,,,,,
-coll009,,,,,,,,,,,,,,,,,,
-coll010,,,,,,,,,,,,,,,,,,
-coll011,,,,,,,,,,,,,,,,,,
-coll012,,,,,,,,,,,,,,,,,,
-coll013,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
-,test001.jpg,,,"Administration Building, University of Idaho, No. 45",Pacific Photo Co.,1910-10-29,"Photographic postcard of the University of Idaho administration building in Moscow, Idaho.",universities;buildings;campuses;picture postcards,"Moscow, Idaho",46.725562,-117.009633,"PG 9, Postcard Collection, University of Idaho Library Special Collections and Archives",pg_9_12_01bl,Image;StillImage,image/jpeg,eng,Public domain,http://rightsstatements.org/vocab/NoC-US/1.0/
+objectid,parentid,filename,youtubeid,vimeoid,title,director,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+everybodyCol,,,,,Everybody,Karie Miller,,,,,,,,,,multiple,,,
+everybody001,everybodyCol,Everybody00001.jpg,,,,,,,,,,,,,,image/jpeg,eng,,
+everybody001,everybodyCol,Everybody00002.jpg,,,,,,,,,,,,,,image/jpeg,eng,,
