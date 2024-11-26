@@ -1,7 +1,14 @@
 field,index,display
 title,true,true
 date,true,true
-creator,true,false
+season,true,true
+playwright,true,true
+director,true,true
+scenic designer,true,true
+lighting designer,true,true
+scenic designer,true,true
+music,true,true
+choreography,true,true
 description,true,true
 subject,true,true
 location,true,false
