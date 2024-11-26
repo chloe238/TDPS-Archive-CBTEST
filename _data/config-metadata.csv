@@ -1,14 +1,18 @@
 field,display_name,browse_link,external_link
 title,Title,
-date,Date Created,
-playwright,Playwright
+date,Date,
+venue,Venue,
+playwright,Playwright,
 director,Director,
 scenic designer,Scenic Designer,
 lighting designer,Lighting Designer,
-scenic designer,Scenic Designer,
-music,Music
-choreography,Choreography
+costume designer,Costume Designer,
+technical director,Technical Director,
+music,Music,
+choreography,Choreography,
 description,Description,
+cast,Cast,
+collaborators,Collaborators,
 subject,Subject,true
 location,Location
 latitude,Latitude
