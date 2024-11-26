@@ -2,8 +2,13 @@ field,display_name,browse_link,external_link
 title,Title,
 date,Date Created,
 season,Season,
+playwright,Playwright
 director,Director,
-designers,Designers,
+scenic designer,Scenic Designer,
+lighting designer,Lighting Designer,
+scenic designer,Scenic Designer,
+music, Music
+choreography, Choreography
 description,Description,
 subject,Subject,true
 location,Location
