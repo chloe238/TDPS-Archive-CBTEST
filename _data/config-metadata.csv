@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 date,Date,
 venue,Venue,
-playwright,Playwright,
+playwright/composer,Playwright/Composer,
 director,Director,
 scenic designer,Scenic Designer,
 lighting designer,Lighting Designer,
