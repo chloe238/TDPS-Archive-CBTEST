@@ -1,6 +1,19 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
+playwright/composer,,,true,
 director,Director,,,Director
-technical director,Technical Director,,true,
+scenic designer,,,true,
+costume designer,,,true,
+lighting designer,,,true,
+technical director,,,true,
+music director,,,true,
+choreographer,,,true,
+sound designer,,,true,
+projection designer,,,true,
+dramaturg,,,true,
+intimacy director,,,true,
+production students,,,true,
+ensemble,,,true,
+collaborators,,,true,
 subject,,true
 location,,true
